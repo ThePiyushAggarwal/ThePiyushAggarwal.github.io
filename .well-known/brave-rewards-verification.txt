@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: thepiyushaggarwal.github.io
+Token: 69e6ba0df51af88198ff00be6567972dbf278b3c87a4528e61236056ccec3abb
